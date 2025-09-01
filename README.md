@@ -31,6 +31,8 @@ Key aspects:
 - Services communicate through a dedicated **docker network**.
 - Sensitive data is stored using **environment variables**.
 
+The infrastructure includes **WordPress running with PHP-FPM**, a **MariaDB database**, and **NGINX** as a **secure reverse proxy**.
+
 This project enforces best practices for Docker images and secure service deployment.
 
 <br>
