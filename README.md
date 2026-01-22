@@ -1,7 +1,7 @@
 # Inception
 <br>
 <p align="center">
-    <img src=https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png alt="Docker Logo" width="350">
+    <img src=https://upload.wikimedia.org/wikipedia/commons/8/89/Docker_Logo.svg alt="Docker Logo" width="350">
 </p>
 
 ### Skills
